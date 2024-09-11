@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 mind.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="17.5266in" height="6.83461in"
+		viewBox="0 0 1261.92 492.092" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#e8f9f1;stroke:#0c0c0c;stroke-width:0.25}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:1.99999em}
+		.st3 {font-size:1em}
+		.st4 {fill:#000000;font-family:Times New Roman;font-size:1.5em}
+		.st5 {fill:#e8eaff;stroke:#0c0c0c;stroke-width:0.25}
+		.st6 {fill:#ffecd1;stroke:#0c0c0c;stroke-width:0.25}
+		.st7 {marker-end:url(#mrkr4-62);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-62" class="st8" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(0.249814,-218.754)">
+			<title>圆角矩形</title>
+			<desc>Data Collection</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="460.708" width="113.39" height="62.7672"/>
+			<path d="M11.34 492.09 L102.05 492.09 A11.3384 11.3384 -180 0 0 113.39 480.75 L113.39 440.66 A11.3384 11.3384 -180 0
+						 0 102.05 429.32 L11.34 429.32 A11.3384 11.3384 -180 0 0 0 440.66 L0 480.75 A11.3384 11.3384 -180 0 0 11.34
+						 492.09 Z" class="st1"/>
+			<text x="34.04" y="453.51" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Data <tspan x="6.7"
+						dy="1.2em" class="st3">Collection</tspan></text>		</g>
+		<g id="shape7-5" v:mID="7" v:groupContext="shape" transform="translate(160.964,-371.116)">
+			<title>圆角矩形.7</title>
+			<desc>Data Collection</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="158.462" cy="460.708" width="316.93" height="62.7672"/>
+			<path d="M12.52 492.09 L304.41 492.09 A12.5158 12.5158 -180 0 0 316.92 479.58 L316.92 441.84 A12.5158 12.5158 -180 0
+						 0 304.41 429.32 L12.52 429.32 A12.5158 12.5158 -180 0 0 0 441.84 L0 479.58 A12.5158 12.5158 -180 0 0 12.52
+						 492.09 Z" class="st1"/>
+			<text x="101.73" y="466.11" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Data Collection</text>		</g>
+		<g id="shape8-8" v:mID="8" v:groupContext="shape" transform="translate(160.964,-274.097)">
+			<title>圆角矩形.8</title>
+			<desc>Model 1: Plant Community Interaction Model</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="158.462" cy="460.708" width="316.93" height="62.7672"/>
+			<path d="M12.52 492.09 L304.41 492.09 A12.5158 12.5158 -180 0 0 316.92 479.58 L316.92 441.84 A12.5158 12.5158 -180 0
+						 0 304.41 429.32 L12.52 429.32 A12.5158 12.5158 -180 0 0 0 441.84 L0 479.58 A12.5158 12.5158 -180 0 0 12.52
+						 492.09 Z" class="st1"/>
+			<text x="18.48" y="455.31" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Model 1: Plant Community Interaction <tspan
+						x="134.96" dy="1.2em" class="st3">Model</tspan></text>		</g>
+		<g id="shape9-12" v:mID="9" v:groupContext="shape" transform="translate(160.964,-177.078)">
+			<title>圆角矩形.9</title>
+			<desc>Model 2: Plant Community Interaction Environment Model</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="158.462" cy="460.708" width="316.93" height="62.7672"/>
+			<path d="M12.52 492.09 L304.41 492.09 A12.5158 12.5158 -180 0 0 316.92 479.58 L316.92 441.84 A12.5158 12.5158 -180 0
+						 0 304.41 429.32 L12.52 429.32 A12.5158 12.5158 -180 0 0 0 441.84 L0 479.58 A12.5158 12.5158 -180 0 0 12.52
+						 492.09 Z" class="st1"/>
+			<text x="18.48" y="455.31" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Model 2: Plant Community Interaction <tspan
+						x="85.72" dy="1.2em" class="st3">Environment Model</tspan></text>		</g>
+		<g id="shape10-16" v:mID="10" v:groupContext="shape" transform="translate(160.964,-80.0588)">
+			<title>圆角矩形.10</title>
+			<desc>Sensitive Analysis</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.17383361427465):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="158.462" cy="460.708" width="316.93" height="62.7672"/>
+			<path d="M12.52 492.09 L304.41 492.09 A12.5158 12.5158 -180 0 0 316.92 479.58 L316.92 441.84 A12.5158 12.5158 -180 0
+						 0 304.41 429.32 L12.52 429.32 A12.5158 12.5158 -180 0 0 0 441.84 L0 479.58 A12.5158 12.5158 -180 0 0 12.52
+						 492.09 Z" class="st1"/>
+			<text x="91.71" y="466.11" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Sensitive Analysis</text>		</g>
+		<g id="shape12-19" v:mID="12" v:groupContext="shape" transform="translate(569.73,-376.431)">
+			<title>圆角矩形.12</title>
+			<desc>Biomass of species</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="174.614" cy="466.023" width="349.23" height="52.1372"/>
+			<path d="M26.07 492.09 L323.16 492.09 A26.0682 26.0682 -180 0 0 349.23 466.02 A26.0682 26.0682 -180 0 0 323.16 439.95
+						 L26.07 439.95 A26.0682 26.0682 -180 0 0 0 466.02 A26.0682 26.0682 -180 0 0 26.07 492.09 Z" class="st5"/>
+			<text x="105.62" y="471.42" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Biomass of species</text>		</g>
+		<g id="shape13-22" v:mID="13" v:groupContext="shape" transform="translate(569.73,-439.704)">
+			<title>圆角矩形.13</title>
+			<desc>Three factors that affect climate</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="174.614" cy="466.023" width="349.23" height="52.1372"/>
+			<path d="M26.07 492.09 L323.16 492.09 A26.0682 26.0682 -180 0 0 349.23 466.02 A26.0682 26.0682 -180 0 0 323.16 439.95
+						 L26.07 439.95 A26.0682 26.0682 -180 0 0 0 466.02 A26.0682 26.0682 -180 0 0 26.07 492.09 Z" class="st5"/>
+			<text x="59.68" y="471.42" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Three factors that affect climate</text>		</g>
+		<g id="shape14-25" v:mID="14" v:groupContext="shape" transform="translate(569.73,-313.158)">
+			<title>圆角矩形.14</title>
+			<desc>Lotka-Volterra competition model</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="174.614" cy="466.023" width="349.23" height="52.1372"/>
+			<path d="M26.07 492.09 L323.16 492.09 A26.0682 26.0682 -180 0 0 349.23 466.02 A26.0682 26.0682 -180 0 0 323.16 439.95
+						 L26.07 439.95 A26.0682 26.0682 -180 0 0 0 466.02 A26.0682 26.0682 -180 0 0 26.07 492.09 Z" class="st5"/>
+			<text x="50.65" y="471.42" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Lotka-Volterra competition model</text>		</g>
+		<g id="shape15-28" v:mID="15" v:groupContext="shape" transform="translate(569.73,-249.884)">
+			<title>圆角矩形.15</title>
+			<desc>Differential equations</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="174.614" cy="466.023" width="349.23" height="52.1372"/>
+			<path d="M26.07 492.09 L323.16 492.09 A26.0682 26.0682 -180 0 0 349.23 466.02 A26.0682 26.0682 -180 0 0 323.16 439.95
+						 L26.07 439.95 A26.0682 26.0682 -180 0 0 0 466.02 A26.0682 26.0682 -180 0 0 26.07 492.09 Z" class="st5"/>
+			<text x="95.89" y="471.42" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Differential equations</text>		</g>
+		<g id="shape16-31" v:mID="16" v:groupContext="shape" transform="translate(569.73,-182.393)">
+			<title>圆角矩形.16</title>
+			<desc>Species contact coefficient and benefit coefficient</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="174.614" cy="466.023" width="349.23" height="52.1372"/>
+			<path d="M26.07 492.09 L323.16 492.09 A26.0682 26.0682 -180 0 0 349.23 466.02 A26.0682 26.0682 -180 0 0 323.16 439.95
+						 L26.07 439.95 A26.0682 26.0682 -180 0 0 0 466.02 A26.0682 26.0682 -180 0 0 26.07 492.09 Z" class="st5"/>
+			<text x="35.68" y="460.62" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Species contact coefficient and benefit <tspan
+						x="136.14" dy="1.2em" class="st3">coefficient</tspan></text>		</g>
+		<g id="shape18-35" v:mID="18" v:groupContext="shape" transform="translate(666.392,-0.25)">
+			<title>圆角矩形.18</title>
+			<desc>Sensitivity result</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.36206411999551):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="77.9528" cy="466.023" width="155.91" height="52.1372"/>
+			<path d="M26.07 492.09 L129.84 492.09 A26.0682 26.0682 -180 0 0 155.91 466.02 A26.0682 26.0682 -180 0 0 129.84 439.95
+						 L26.07 439.95 A26.0682 26.0682 -180 0 0 0 466.02 A26.0682 26.0682 -180 0 0 26.07 492.09 Z" class="st5"/>
+			<text x="17.2" y="471.42" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Sensitivity result</text>		</g>
+		<g id="shape19-38" v:mID="19" v:groupContext="shape" transform="translate(763.053,-104.271)">
+			<title>圆角矩形.19</title>
+			<desc>Funtion fitting</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="77.9528" cy="460.708" width="155.91" height="62.7672"/>
+			<path d="M31.38 492.09 L124.52 492.09 A31.3831 31.3831 -180 0 0 155.91 460.71 A31.3831 31.3831 -180 0 0 124.52 429.32
+						 L31.38 429.32 A31.3831 31.3831 -180 0 0 -0 460.71 A31.3831 31.3831 -180 0 0 31.38 492.09 Z" class="st5"/>
+			<text x="25.7" y="466.11" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Funtion fitting</text>		</g>
+		<g id="shape20-41" v:mID="20" v:groupContext="shape" transform="translate(569.73,-104.271)">
+			<title>矩形</title>
+			<desc>Change parametar</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="460.708" width="113.39" height="62.7672"/>
+			<rect x="0" y="429.324" width="113.386" height="62.7672" class="st5"/>
+			<text x="29.2" y="455.31" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Change <tspan
+						x="20.72" dy="1.2em" class="st3">parametar</tspan></text>		</g>
+		<g id="shape21-45" v:mID="21" v:groupContext="shape" transform="translate(1032.91,-224.828)">
+			<title>矩形.21</title>
+			<desc>Entropy weight Multiple regression analysis</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="110.835" cy="437.044" width="221.67" height="110.096"/>
+			<rect x="0" y="381.996" width="221.669" height="110.096" class="st6"/>
+			<text x="55.09" y="420.84" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Entropy weight<v:lf/><v:lf/><tspan
+						x="9.35" dy="2.4em" class="st3">Multiple regression analysis</tspan></text>		</g>
+		<g id="shape22-49" v:mID="22" v:groupContext="shape" transform="translate(1025.82,-394.907)">
+			<title>圆角矩形.22</title>
+			<desc>Predition model</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.43588301333729):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="117.921" cy="460.708" width="235.85" height="62.7672"/>
+			<path d="M31.38 492.09 L204.46 492.09 A31.3831 31.3831 -180 0 0 235.84 460.71 A31.3831 31.3831 -180 0 0 204.46 429.32
+						 L31.38 429.32 A31.3831 31.3831 -180 0 0 0 460.71 A31.3831 31.3831 -180 0 0 31.38 492.09 Z" class="st6"/>
+			<text x="60.18" y="466.11" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Predition model</text>		</g>
+		<g id="shape23-52" v:mID="23" v:groupContext="shape" transform="translate(1032.91,-114.901)">
+			<title>矩形.23</title>
+			<desc>The extent to which species change benefits the enviroment</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="110.835" cy="437.044" width="221.67" height="110.096"/>
+			<rect x="0" y="381.996" width="221.669" height="110.096" class="st6"/>
+			<text x="10.87" y="420.84" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>The extent to which species <tspan
+						x="41.37" dy="1.2em" class="st3">change benefits the </tspan><tspan x="69.85" dy="1.2em" class="st3">enviroment</tspan></text>		</g>
+		<g id="shape24-57" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(113.636,-250.137)">
+			<title>动态连接线</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 339.73 L40.29 339.73" class="st7"/>
+		</g>
+		<g id="shape25-63" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(113.636,-250.137)">
+			<title>动态连接线.25</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 436.75 L40.29 436.75" class="st7"/>
+		</g>
+		<g id="shape26-68" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(113.636,-250.137)">
+			<title>动态连接线.26</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 533.77 L40.29 533.77" class="st7"/>
+		</g>
+		<g id="shape27-73" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(113.636,-250.137)">
+			<title>动态连接线.27</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 630.79 L40.29 630.79" class="st7"/>
+		</g>
+		<g id="shape28-78" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(477.888,-395.413)">
+			<title>动态连接线.28</title>
+			<path d="M0 485.01 L84.8 485.01" class="st7"/>
+		</g>
+		<g id="shape29-83" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(477.888,-402.5)">
+			<title>动态连接线.29</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 428.82 L84.8 428.82" class="st7"/>
+		</g>
+		<g id="shape30-88" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(477.888,-305.481)">
+			<title>动态连接线.30</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 458.35 L84.8 458.35" class="st7"/>
+		</g>
+		<g id="shape31-93" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(477.888,-305.481)">
+			<title>动态连接线.31</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 521.62 L84.8 521.62" class="st7"/>
+		</g>
+		<g id="shape32-98" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(477.888,-201.375)">
+			<title>动态连接线.32</title>
+			<path d="M0 485.01 L84.8 485.01" class="st7"/>
+		</g>
+		<g id="shape33-103" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(477.888,-111.442)">
+			<title>动态连接线.33</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 467.88 L84.8 467.88" class="st7"/>
+		</g>
+		<g id="shape34-108" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(683.116,-135.655)">
+			<title>动态连接线.34</title>
+			<path d="M0 492.09 L61.23 492.09 L61.23 568.32" class="st7"/>
+		</g>
+		<g id="shape36-113" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(841.006,-167.038)">
+			<title>动态连接线.36</title>
+			<path d="M0 492.09 L0 485.76 L-96.66 485.76 L-96.66 483.78" class="st7"/>
+		</g>
+		<g id="shape37-118" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(918.958,-402.5)">
+			<title>动态连接线.37</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 614.72 L106.91 614.72" class="st7"/>
+		</g>
+		<g id="shape38-123" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(918.958,-270.828)">
+			<title>动态连接线.38</title>
+			<path d="M0 486.97 L12.67 486.97 L12.67 483.04 L106.91 483.04" class="st7"/>
+		</g>
+		<g id="shape39-128" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(918.958,-339.226)">
+			<title>动态连接线.39</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 551.44 L106.91 551.44" class="st7"/>
+		</g>
+		<g id="shape40-133" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(918.958,-465.773)">
+			<title>动态连接线.40</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 677.99 L106.91 677.99" class="st7"/>
+		</g>
+		<g id="shape41-138" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(918.958,-208.461)">
+			<title>动态连接线.41</title>
+			<path d="M0 492.09 L12.67 492.09 L12.67 530.6 L106.91 530.6" class="st7"/>
+		</g>
+		<g id="shape42-143" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(1136.66,-334.924)">
+			<title>动态连接线.42</title>
+			<path d="M7.09 492.09 L7.09 439.15" class="st7"/>
+		</g>
+	</g>
+</svg>
